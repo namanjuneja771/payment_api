@@ -54,6 +54,11 @@
 
 ## A log table is also created in the project.db database which contains all the transactions which have taken place in the order in which they have taken place. It includes the following  columns (phone number,transaction type(credit/debit),amount,balance before transaction, balance after transaction)
 
+## temp.py could be used to see all the transactions that have taken place.
+
+![Screenshot from 2021-05-13 12-45-04](https://user-images.githubusercontent.com/70585990/118092301-8aa8c400-b3e9-11eb-976d-369eaad8e845.png)
+
+
 
 
 
